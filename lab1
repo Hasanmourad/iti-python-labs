@@ -1,0 +1,30 @@
+# vowels = ["a", "e", "i", "o", "u"]
+# str1 = input("enter string please")
+# count = 0
+# for char in str1:
+#     if char in vowels:
+#         count +=1
+# print(count)
+#
+###########################################################
+
+# ar1 = []
+# for i in range(5):
+#     ar1.append(int(input(f"enter element number {i} ")))
+# print(ar1)
+# asc = sorted(ar1)
+# des = sorted(ar1 , reverse= True)
+# print("ascending" , asc)
+# print("descend" , des)
+
+########################################################
+
+# text = input("Enter a string: ")
+# pattern = "iti"
+# count =0
+# for i in range(len(text) - len(pattern) +1 ):
+#     if text[i:i+len(pattern)] == pattern :
+#         count += 1
+# print(count)
+
+
